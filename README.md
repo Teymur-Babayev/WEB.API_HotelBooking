@@ -15,3 +15,5 @@ This project is a Hotel Management Web API built using ASP.NET Core. It provides
 - JWT (JSON Web Tokens): For secure authentication.
 - SQL Server: For the database.
 - Swagger: For API documentation.
+
+Hey, I'm a stupid. Kill me.
